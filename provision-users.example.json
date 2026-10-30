@@ -1,0 +1,14 @@
+{
+  "organizationName": "شرکت سوخت‌رسانی شما",
+  "organizationSlug": "sookhtresan-company",
+  "users": [
+    { "fullName": "مدیر کل", "email": "admin1@your-company.com", "password": "REPLACE_WITH_A_UNIQUE_STRONG_PASSWORD_1", "role": "owner_admin" },
+    { "fullName": "مدیر عملیات", "email": "admin2@your-company.com", "password": "REPLACE_WITH_A_UNIQUE_STRONG_PASSWORD_2", "role": "operations_admin" },
+    { "fullName": "راننده شماره ۱", "email": "driver1@your-company.com", "password": "REPLACE_WITH_A_UNIQUE_STRONG_PASSWORD_3", "role": "driver", "driverNo": 1 },
+    { "fullName": "راننده شماره ۲", "email": "driver2@your-company.com", "password": "REPLACE_WITH_A_UNIQUE_STRONG_PASSWORD_4", "role": "driver", "driverNo": 2 },
+    { "fullName": "راننده شماره ۳", "email": "driver3@your-company.com", "password": "REPLACE_WITH_A_UNIQUE_STRONG_PASSWORD_5", "role": "driver", "driverNo": 3 },
+    { "fullName": "راننده شماره ۴", "email": "driver4@your-company.com", "password": "REPLACE_WITH_A_UNIQUE_STRONG_PASSWORD_6", "role": "driver", "driverNo": 4 },
+    { "fullName": "راننده شماره ۵", "email": "driver5@your-company.com", "password": "REPLACE_WITH_A_UNIQUE_STRONG_PASSWORD_7", "role": "driver", "driverNo": 5 },
+    { "fullName": "راننده شماره ۶", "email": "driver6@your-company.com", "password": "REPLACE_WITH_A_UNIQUE_STRONG_PASSWORD_8", "role": "driver", "driverNo": 6 }
+  ]
+}
